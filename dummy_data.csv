@@ -1,0 +1,6 @@
+id,text,metadata
+1,This is a sample text for embedding,"{""author"": ""Alice"", ""topic"": ""AI""}"
+2,Another example of a text document,"{""author"": ""Bob"", ""topic"": ""Data Science""}"
+3,LangChain is useful for AI applications,"{""author"": ""Charlie"", ""topic"": ""Programming""}"
+4,Pinecone is great for vector databases,"{""author"": ""Dave"", ""topic"": ""Databases""}"
+5,Exploring embeddings and their use cases,"{""author"": ""Eve"", ""topic"": ""Machine Learning""}"
